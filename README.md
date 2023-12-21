@@ -9,3 +9,5 @@ This variable will be used by the application to listen on a specific path (i.e.
 export APPLICATION_INSTANCE=example
 node src/count-server.js
 ```
+## Diagram minikube usage
+<img src="https://i.ibb.co/D5qZ9ZB/minikube-diagram.png"/>
